@@ -5,7 +5,7 @@ This script is essentially a "I'm Feeling Lucky" button which queries Google's i
 
 The important bits:
 
-* cx=<insert-your-cse-id-here> // This is the ID of your Google CSE. I'm using Cal Poly's as an example ( 016915822800209588117:65i6qz9rv3u -- I work here.)
+* cx=<insert-your-cse-id-here> // This is the ID of your Google CSE.)
   
 * /customsearch/v1/siterestrict // site restrict depends on your query volume. I believe the limit is 10k per day and you have to have 10 or fewer domains in your CSE.
 
